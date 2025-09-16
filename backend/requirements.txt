@@ -25,6 +25,8 @@ filelock==3.19.1
 flake8==7.3.0
 frozenlist==1.7.0
 fsspec==2025.9.0
+geographiclib==2.1
+geopy==2.4.1
 google-ai-generativelanguage==0.6.15
 google-api-core==2.25.1
 google-api-python-client==2.181.0
@@ -79,6 +81,7 @@ pyasn1_modules==0.4.2
 pycodestyle==2.14.0
 pycparser==2.23
 pydantic==2.11.7
+pydantic-settings==2.10.1
 pydantic_core==2.33.2
 pyflakes==3.4.0
 Pygments==2.19.2
